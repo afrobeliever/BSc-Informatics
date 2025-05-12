@@ -1,2 +1,4 @@
-# BSc-Informatics
-Repository for my BSc Information Science coursework at Unisa
+# BSc-Informatics University of South Africa
+Repository for my BSc Information Science degree at Unisa
+
+The GitHub repository is maintained by Afro Believer and is a dedicated space for organizing and storing study materials related to the Bachelor of Science in Informatics at the University of South Africa (Unisa). This repository serves as a centralized archive for coursework resources, including notes, assignments, projects, and other academic materials used throughout the degree program. It reflects a structured approach to managing study content, covering key informatics topics such as programming, data analysis, system design, and more. By housing these materials, the repository provides a valuable reference for revisiting concepts and tracking academic progress during the Unisa BSc Informatics journey.
