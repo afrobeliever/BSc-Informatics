@@ -1,4 +1,95 @@
-# BSc-Informatics University of South Africa
-Repository for the BSc Information Science degree at Unisa
+# 🎓 BSc Informatics @ Unisa Repository  
+**Maintained by Afro Believer**
 
-The GitHub repository is maintained by Afro Believer and is a dedicated space for organizing and storing study materials related to the Bachelor of Science in Informatics at the University of South Africa (Unisa). This repository serves as a centralized archive for coursework resources, including notes, assignments, projects, and other academic materials used throughout the degree program. It reflects a structured approach to managing study content, covering key informatics topics such as programming, data analysis, system design, and more. By housing these materials, the repository provides a valuable reference for revisiting concepts and tracking academic progress during the Unisa BSc Informatics journey.
+![Banner](RandomFileName_b7a607ba-a575-416d-9232-38b812b312b3.png)
+
+Welcome to the official repository for the **Bachelor of Science in Informatics** at the **University of South Africa (Unisa)**. This space is dedicated to organizing, archiving, and sharing study materials that support your academic journey through the BSc Informatics program.
+
+---
+
+## 📚 What You'll Find Here
+
+This repository is a **centralized archive** of resources used throughout the degree, including:
+
+- 📝 **Lecture Notes**  
+- 🧠 **Assignments & Solutions**  
+- 💻 **Programming Projects**  
+- 📊 **Data Analysis Exercises**  
+- 🧪 **System Design Case Studies**  
+- 📁 **Past Papers & Revision Guides**
+
+---
+
+## 🚀 Why Use This Repository?
+
+Whether you're just starting out or revising for finals, this repo helps you:
+
+- ✅ Stay organized across modules  
+- 🔍 Revisit key concepts anytime  
+- 📈 Track your academic progress  
+- 🤝 Collaborate with fellow students  
+- 🧭 Navigate the degree with confidence
+
+---
+
+## 🧠 Covered Topics
+
+This repository currently covers:
+
+| Module | Topics |
+|--------|--------|
+| COS1511 | Computer Science 1A |
+| COS1512 | Computer Science 1B |
+
+More modules will be added as the journey progresses!
+
+---
+
+## 🌟 Features
+
+- 📂 **Structured Folder System** for easy navigation  
+- 🔖 **Markdown Notes** for quick reading  
+- 🧮 **Code Snippets** in Python, Java, and SQL  
+- 🧭 **Study Roadmaps** for each semester  
+- 🧑‍🤝‍🧑 **Community Contributions Welcome!**
+
+---
+
+## 🏷️ Badges
+
+![Built with 💻 by Afro Believer](https://img.shields.io/badge/Built%20with-%F0%9F%92%BB%20by%20Afro%20Believer-blue)
+![UNISA Informatics](https://img.shields.io/badge/UNISA-Informatics-yellow)
+![Modules: COS1511 & COS1512](https://img.shields.io/badge/Modules-COS1511%20%26%20COS1512-green)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2025-09-09-orange)
+
+---
+
+## 🤝 Contributing
+
+Want to help improve this repository? Contributions are welcome!
+
+1. Fork the repo  
+2. Add your materials or improvements  
+3. Submit a pull request  
+4. Get featured in the contributors list!
+
+---
+
+## 📌 Disclaimer
+
+This repository is **student-maintained** and not officially affiliated with Unisa. All materials are shared for educational purposes only.
+
+---
+
+## 📬 Contact
+
+For questions, suggestions, or collaboration:
+- 📧 Email: [Afro Believer](mailto:your-54407648@mylife.unisa.ac.zaAFR)
+- 🐦 Twitter: [@AfroBeliever](https://twitter.com/afrobeliever)
+- 🌐 GitHub: [Afro Believer](https://github.com/afrobeliever)
+
+---
+
+## ⭐️ Star This Repo
+
+If you find this helpful, don’t forget to ⭐️ star the repository and share it with your classmates!
