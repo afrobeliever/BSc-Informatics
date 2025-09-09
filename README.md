@@ -1,5 +1,6 @@
 # 🎓 BSc Informatics @ Unisa Repository  
 **Maintained by Afro Believer**
+!BSc Informatics Banner
 
 ![Banner](banner.png)
 
