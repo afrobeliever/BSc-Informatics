@@ -3,7 +3,7 @@
 
 ![Banner](banner.png)
 
-Welcome to the official repository for the **Bachelor of Science in Informatics** at the **University of South Africa (Unisa)**. This space is dedicated to organizing, archiving, and sharing study materials that support your academic journey through the BSc Informatics program.
+Welcome to the unofficial repository for the **Bachelor of Science in Informatics** at the **University of South Africa (Unisa)**. This space is dedicated to organizing, archiving, and sharing study materials that support my academic journey through the BSc Informatics program.
 
 ---
 
@@ -11,10 +11,10 @@ Welcome to the official repository for the **Bachelor of Science in Informatics*
 
 This repository is a **centralized archive** of resources used throughout the degree, including:
 
-- 📝 **Lecture Notes**  
+- 📝 **My Lecture Notes**  
 - 🧠 **Assignments & Solutions**  
 - 💻 **Programming Projects**  
-- 📊 **Data Analysis Exercises**  
+- 📊 **Practice Exercises**  
 - 🧪 **System Design Case Studies**  
 - 📁 **Past Papers & Revision Guides**
 
@@ -22,7 +22,7 @@ This repository is a **centralized archive** of resources used throughout the de
 
 ## 🚀 Why Use This Repository?
 
-Whether you're just starting out or revising for finals, this repo helps you:
+Whether you're just starting out or revising for finals, this repo will help you:
 
 - ✅ Stay organized across modules  
 - 🔍 Revisit key concepts anytime  
@@ -84,7 +84,7 @@ This repository is **student-maintained** and not officially affiliated with Uni
 ## 📬 Contact
 
 For questions, suggestions, or collaboration:
-- 📧 Email: [Afro Believer](mailto:your-54407648@mylife.unisa.ac.za)
+- 📧 Email: [Afro Believer](mailto:54407648@mylife.unisa.ac.za)
 - 🐦 Twitter: [@AfroBeliever](https://twitter.com/afrobeliever89)
 - 🌐 GitHub: [Afro Believer](https://github.com/afrobeliever)
 
