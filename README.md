@@ -1,7 +1,7 @@
 # 🎓 BSc Informatics @ Unisa Repository  
 **Maintained by Afro Believer**
 
-![Banner](RandomFileName_b7a607ba-a575-416d-9232-38b812b312b3.png)
+![Banner](banner.png)
 
 Welcome to the official repository for the **Bachelor of Science in Informatics** at the **University of South Africa (Unisa)**. This space is dedicated to organizing, archiving, and sharing study materials that support your academic journey through the BSc Informatics program.
 
@@ -38,8 +38,8 @@ This repository currently covers:
 
 | Module | Topics |
 |--------|--------|
-| COS1511 | Computer Science 1A |
-| COS1512 | Computer Science 1B |
+| COS1511 | Introduction to Programming I |
+| COS1512 | Introduction to Programming II |
 
 More modules will be added as the journey progresses!
 
@@ -49,7 +49,7 @@ More modules will be added as the journey progresses!
 
 - 📂 **Structured Folder System** for easy navigation  
 - 🔖 **Markdown Notes** for quick reading  
-- 🧮 **Code Snippets** in Python, Java, and SQL  
+- 🧮 **Code Snippets** in C++  
 - 🧭 **Study Roadmaps** for each semester  
 - 🧑‍🤝‍🧑 **Community Contributions Welcome!**
 
@@ -84,8 +84,8 @@ This repository is **student-maintained** and not officially affiliated with Uni
 ## 📬 Contact
 
 For questions, suggestions, or collaboration:
-- 📧 Email: [Afro Believer](mailto:your-54407648@mylife.unisa.ac.zaAFR)
-- 🐦 Twitter: [@AfroBeliever](https://twitter.com/afrobeliever)
+- 📧 Email: [Afro Believer](mailto:your-54407648@mylife.unisa.ac.za)
+- 🐦 Twitter: [@AfroBeliever](https://twitter.com/afrobeliever89)
 - 🌐 GitHub: [Afro Believer](https://github.com/afrobeliever)
 
 ---
