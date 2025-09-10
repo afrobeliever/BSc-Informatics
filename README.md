@@ -1,8 +1,6 @@
 # 🎓 BSc Informatics @ Unisa Repository  
 **Maintained by Afro Believer**
 
-![Banner](banner.png)
-
 Welcome to the unofficial repository for the **Bachelor of Science in Informatics** at the **University of South Africa (Unisa)**. This space is dedicated to organizing, archiving, and sharing study materials that support my academic journey through the BSc Informatics program.
 
 ---
